@@ -61,6 +61,12 @@ Razón de “se olvidó”:
 * Ambigüedad / colisión de reglas entre system vs user.
 * Sobrecarga de ejemplos irrelevantes (ruido semántico).
 
+
+
+![img](imagenes/fundamentos.png)
+
+
+
 ---
 
 ## 4. Roles de Mensaje
@@ -90,6 +96,8 @@ Recomendación: Mantén el system breve, estable y testeado; versiona variantes.
 * JSON / Output Constrained: Forzar formato parseable.
 * Guardrails / Políticas: Rechazar tareas fuera de alcance.
 
+![img](imagenes/img2.png)
+
 ---
 
 ## 6. Anatomía de un Prompt Estructurado
@@ -118,6 +126,8 @@ Secciones recomendadas:
 * Falta de formato → dificulta parseo y automatización.
 
 Mitigación: limpieza, normalización, chunking, delimitar con triple backticks \`\`\` para separar bloques.
+
+![img](imagenes/img3.png)
 
 ---
 
