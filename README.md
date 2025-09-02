@@ -63,7 +63,7 @@ Razón de “se olvidó”:
 
 
 
-![img](imagenes/fundamentos.png)
+![img](./imagenes/fundamentos.png)
 
 
 
