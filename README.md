@@ -96,7 +96,7 @@ Recomendación: Mantén el system breve, estable y testeado; versiona variantes.
 * JSON / Output Constrained: Forzar formato parseable.
 * Guardrails / Políticas: Rechazar tareas fuera de alcance.
 
-![img](imagenes/img2.png)
+![img](Imagenes/img2.png)
 
 ---
 
@@ -127,7 +127,7 @@ Secciones recomendadas:
 
 Mitigación: limpieza, normalización, chunking, delimitar con triple backticks \`\`\` para separar bloques.
 
-![img](imagenes/img3.png)
+![img](Imagenes/img3.png)
 
 ---
 
